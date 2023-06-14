@@ -2,9 +2,10 @@
 {
     public class Demo
     {
-        static void m()
+        static string  m()
         {
             Console.WriteLine("hey boya your are from tpt");
+            return "ashok";
         }
     }
 
